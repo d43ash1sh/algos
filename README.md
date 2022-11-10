@@ -1,8 +1,4 @@
 
-<div align = center>
-
-# Sorting Algorithms
-
 *Visualization of a variety of sorting algorithms*
 
 [![Button Website]][Website]
